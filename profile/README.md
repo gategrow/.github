@@ -2,6 +2,12 @@
 
 Personal AI agent tools — zero-dependency Python scripts for Claude Code users.
 
+## Frameworks
+
+| Repo | What it is |
+|------|-----------|
+| **[checkgrow](https://github.com/gategrow/checkgrow)** | Unified quality framework — methodology, failure patterns, decision flow. The canonical source for the CheckGrow thesis. Start here to understand how all the tools connect. |
+
 ## Tools
 
 | Repo | What it does |
